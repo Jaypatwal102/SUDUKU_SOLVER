@@ -3,8 +3,10 @@ CREDIT_CARD_DATA_ANALYSIS
 .
 
 This is the first data analysis project done by me ,
-here we two file one is in Excel format which contain raw data and 
-second file in pbix format which will only open in power bi which contain data visualization of raw data after cleaning and analysing
+here we three file one is in Excel format which contain raw data and 
+second file in pbix format which will only open in power bi which contain data visualization  with dynamic buttons 
+
+third file is in pdf format in case you are not using powerbi( only contain few screenshots of powerbi file to give you idea of dashboard i made in powerbi)
 .
 .
 
