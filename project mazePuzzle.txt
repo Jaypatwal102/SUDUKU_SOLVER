@@ -1,0 +1,9 @@
+project mazePuzzle
+
+-use grid for table
+-in grid add button to allow users to add obstacles
+-button to start game 
+-run recursion function and if return arraylist is empty then show no possible way to reach
+if not empty then return anyone of the path (additionaly add img )
+
+-mssg that of result reached or not possible to reach type mssg. 
