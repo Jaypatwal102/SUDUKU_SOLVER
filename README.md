@@ -33,8 +33,9 @@ The solver uses **Backtracking**, a recursive technique commonly used for constr
 3.Input your Sudoku puzzle (empty cells as 0) and hit "Solve".
 
 ✅ Valid Sudoku Rules
-Each number 1–9 must appear once per row
+<br>
+-> Each number 1–9 must appear once per row
 
-Each number 1–9 must appear once per column
+-> Each number 1–9 must appear once per column
 
-Each number 1–9 must appear once per 3×3 box
+-> Each number 1–9 must appear once per 3×3 box
