@@ -1,6 +1,6 @@
 # 🧩 Sudoku Solver
 
-A simple and efficient Sudoku Solver built using JavaScript. This project takes a 9x9 Sudoku grid as input and fills in the correct numbers according to the classic Sudoku rules.
+A simple and efficient Sudoku Solver built using React. This project takes a 9x9 Sudoku grid as input and fills in the correct numbers according to the classic Sudoku rules.
 
 ## 🚀 Features
 
