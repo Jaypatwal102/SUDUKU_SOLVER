@@ -28,9 +28,11 @@ The solver uses **Backtracking**, a recursive technique commonly used for constr
    ```bash
    git clone https://github.com/Jaypatwal102/SUDUKU_SOLVER.git
    cd SUDUKU_SOLVER
-2.Open index.html in your browser.
+2.Open App.js in your vs code.
 
-3.Input your Sudoku puzzle (empty cells as 0) and hit "Solve".
+3. open new terminal in vs code type "npm run start" and then hit enter
+
+4. Input your Sudoku puzzle (empty cells as 0) and hit "Solve".
 
 ✅ Valid Sudoku Rules
 <br>
