@@ -2,6 +2,11 @@
 
 A simple and efficient Sudoku Solver built using React. This project takes a 9x9 Sudoku grid as input and fills in the correct numbers according to the classic Sudoku rules.
 
+
+
+🔗 **Live Demo**: [https://shopping-cart-xcok-mu.vercel.app](https://suduku-solver-seven.vercel.app/)
+
+
 ## 🚀 Features
 
 - Solves standard 9x9 Sudoku puzzles
