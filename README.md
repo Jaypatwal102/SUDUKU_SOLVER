@@ -4,7 +4,7 @@ A simple and efficient Sudoku Solver built using React. This project takes a 9x9
 
 
 
-🔗 **Live Demo**: [https://suduku-solver-seven.vercel.app/(https://suduku-solver-seven.vercel.app/)]
+🔗 **Live Demo**: [https://suduku-solver-seven.vercel.app/](https://suduku-solver-seven.vercel.app/)
 
 
 ## 🚀 Features
